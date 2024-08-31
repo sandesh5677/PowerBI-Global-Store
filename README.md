@@ -71,4 +71,4 @@ Fell free to contribute to this project.
 ![Dashbord](https://github.com/user-attachments/assets/c995b087-cbcb-4cb5-aedb-5a96c939ece0)
 ## To download Power BI File
 
-If you are not able to download the Power BI file, please check the [Releases section](../../releases) , there you can find the power BI file,screenshot and video.
+If you are not able to download the Power BI file, please check the [Releases section](https://drive.google.com/drive/folders/1T2Bg8HrN79YQdWa1zePfvRbpanw9a0ZE?usp=sharing) , there you can find the power BI file
