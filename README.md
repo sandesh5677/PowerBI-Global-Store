@@ -67,6 +67,8 @@ The dataset has undergone basic data cleaning to ensure accuracy and consistency
 
 Fell free to contribute to this project.
 
+#Dashbord
+![Dashbord](https://github.com/user-attachments/assets/c995b087-cbcb-4cb5-aedb-5a96c939ece0)
 ## To download Power BI File
 
 If you are not able to download the Power BI file, please check the [Releases section](../../releases) , there you can find the power BI file,screenshot and video.
